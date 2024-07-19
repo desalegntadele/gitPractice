@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gitpractice</title>
+</head>
+<body>
+    <div class="wrraper">
+        <h1>Cotact Information </h1>
+        <label for="">firstName</label>
+       <input type="text" placeholder="">
+       <label for="">lastName</label>
+       <input type="text" placeholder="">
+<p> this is the site of to get very good github tutorial</p>
+    </div>
+</body>
+</html>
